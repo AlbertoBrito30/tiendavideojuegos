@@ -1,13 +1,5 @@
-/*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- */
+package Model;
 
-package model;
-
-/**
- *
- * @author betit
- */
 public class ProyectoIntegrador {
 
     public static void main(String[] args) {
